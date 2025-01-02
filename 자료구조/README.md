@@ -1,11 +1,6 @@
 ## 자료구조가 무엇인가요?
 
 <details>
-  <summary>첫번째토글</summary>
-  <!-- 내용 -->
-</details>
-
-<details>
-  <summary><h2>첫번째토글</h2></summary>
-  <!-- 내용 -->
+  <summary>답변</summary>
+  자료구조는 데이터를 관리하기 위한 데이터 집합입니다.
 </details>
